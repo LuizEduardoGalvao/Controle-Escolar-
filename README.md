@@ -18,6 +18,5 @@ O projeto foi desenvolvido utilizando:
 - **SQLite** como banco de dados para armazenamento de informações.
 - **Bibliotecas adicionais:** 
   - `tkinter` (se usado para interface gráfica)
-  - Outros, dependendo das necessidades do projeto.
 
 ---
